@@ -1,0 +1,92 @@
+nohup: ignoring input
+ * Serving Flask app 'app'
+ * Debug mode: on
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.1.1 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7000
+ * Running on http://172.31.76.53:7000
+Press CTRL+C to quit
+ * Restarting with watchdog (inotify)
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.1.1 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+ * Debugger is active!
+ * Debugger PIN: 440-009-618
+49.37.156.69 - - [10/Jan/2024 20:40:35] "GET / HTTP/1.1" 200 -
+49.37.156.69 - - [10/Jan/2024 20:40:35] "GET /static/styles.css HTTP/1.1" 404 -
+49.37.156.69 - - [10/Jan/2024 20:40:36] "GET /favicon.ico HTTP/1.1" 404 -
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/metrics/tests/test_pairwise.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/metrics/tests/test_pairwise_distances_reduction.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/metrics/tests/test_ranking.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/metrics/tests/test_regression.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/metrics/tests/test_score_objects.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/mixture/__init__.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/mixture/_base.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/mixture/_bayesian_mixture.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/mixture/_gaussian_mixture.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/mixture/tests/__init__.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/mixture/tests/test_bayesian_mixture.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/mixture/tests/test_gaussian_mixture.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/mixture/tests/test_mixture.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/model_selection/__init__.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/model_selection/_search.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/model_selection/_search_successive_halving.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/model_selection/_split.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/model_selection/_validation.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/model_selection/tests/__init__.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/model_selection/tests/common.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/model_selection/tests/test_search.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/model_selection/tests/test_split.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/model_selection/tests/test_successive_halving.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/model_selection/tests/test_validation.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/multiclass.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/multioutput.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/naive_bayes.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neighbors/__init__.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neighbors/_base.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neighbors/_classification.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neighbors/_distance_metric.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neighbors/_graph.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neighbors/_kde.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neighbors/_lof.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neighbors/_nca.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neighbors/_nearest_centroid.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neighbors/_regression.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neighbors/_unsupervised.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neighbors/setup.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neighbors/tests/__init__.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neighbors/tests/test_ball_tree.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neighbors/tests/test_graph.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neighbors/tests/test_kd_tree.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neighbors/tests/test_kde.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neighbors/tests/test_lof.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neighbors/tests/test_nca.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neighbors/tests/test_nearest_centroid.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neighbors/tests/test_neighbors.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neighbors/tests/test_neighbors_pipeline.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neighbors/tests/test_neighbors_tree.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neighbors/tests/test_quad_tree.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neural_network/__init__.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neural_network/_base.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neural_network/_multilayer_perceptron.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neural_network/_rbm.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neural_network/_stochastic_optimizers.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neural_network/tests/__init__.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neural_network/tests/test_base.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neural_network/tests/test_mlp.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neural_network/tests/test_rbm.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/neural_network/tests/test_stochastic_optimizers.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/pipeline.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/preprocessing/__init__.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/preprocessing/_data.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/preprocessing/_discretization.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/preprocessing/_encoders.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/preprocessing/_function_transformer.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/preprocessing/_label.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/preprocessing/_polynomial.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/preprocessing/setup.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/preprocessing/tests/__init__.py', reloading
+ * Detected change in '/home/ec2-user/Agri/Agri/Lib/site-packages/sklearn/preprocessing/tests/test_common.py', reloading
